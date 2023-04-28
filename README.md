@@ -21,12 +21,12 @@ existing workflow.
 
 
 
-    Install (if not already present) .NET Core 6.0: https://dotnet.microsoft.com/download/dotnet/6.0
-     download the windows zip file from the releases page and save it to your disk.
-    Then, before you open or unzip it, right-click on it and select Properties; at the bottom of 
-     the dialog, click the Unblock button and then the OK button.
-    Now, open the zip file and copy its contents into a directory on your machine. 
-     (You can now delete the zip file.)
+Install (if not already present) .NET Core 6.0: https://dotnet.microsoft.com/download/dotnet/6.0
+ download the windows zip file from the releases page and save it to your disk.
+Then, before you open or unzip it, right-click on it and select Properties; at the bottom of 
+ the dialog, click the Unblock button and then the OK button.
+Now, open the zip file and copy its contents into a directory on your machine. 
+ (You can now delete the zip file.)
     
 
 ### Add binary path to Environment Variable, to run dafny from terminal
